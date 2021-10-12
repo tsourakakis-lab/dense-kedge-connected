@@ -10,6 +10,8 @@ Twitter dataset is available from https://github.com/twittermancer/The_Twitter_M
 
 The Brain network dataset we used is from https://github.com/tlancian/contrast-subgraph.
 
+## Package installation
+
 To run the Jupyter Notebooks in this repository, create a python 2.7 virtual environment and run the following installation commands.
 
 ```
